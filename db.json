@@ -1,4 +1,3 @@
-
 {
   "companies": [
     {
@@ -33,7 +32,7 @@
       "diaChi": "abc3",
       "sdt": "09999999",
       "dienTich": "100"
-    },
+    }
   ],
   "profile": {
     "name": "hungtran97"
