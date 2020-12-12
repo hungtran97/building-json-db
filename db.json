@@ -1,37 +1,15 @@
+
 {
-  "companies": [
-    {
-      "id": 1,
-      "name": "abc1",
-      "maSoThue": "abc1",
-      "vonDieuLe": "100",
-      "linhVuc": "abc1",
-      "soNhanVien": 10,
-      "diaChi": "abc1",
-      "sdt": "09999999",
-      "dienTich": "100"
-    },
-    {
-      "id": 2,
-      "name": "abc2",
-      "maSoThue": "abc2",
-      "vonDieuLe": "100",
-      "linhVuc": "abc2",
-      "soNhanVien": 10,
-      "diaChi": "abc2",
-      "sdt": "09999999",
-      "dienTich": "100"
-    },
-    {
-      "id": 3,
-      "name": "abc3",
-      "maSoThue": "abc3",
-      "vonDieuLe": "100",
-      "linhVuc": "abc3",
-      "soNhanVien": 10,
-      "diaChi": "abc3",
-      "sdt": "09999999",
-      "dienTich": "100"
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
